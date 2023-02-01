@@ -6,3 +6,4 @@ Flask
 ibm-watson 
 python-dotenv 
 Flask-Cors
+pip3 install -r
